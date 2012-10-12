@@ -1,0 +1,2 @@
+# Module de.gzockoll.prototype.vaadin6.widgetset.Vaadin6Widgetset
+# RPC service class, partial path of RPC policy file
